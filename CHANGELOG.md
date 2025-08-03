@@ -1,3 +1,17 @@
+# [2.8.0](https://github.com/webtorrent/webtorrent/compare/v2.7.1...v2.8.0) (2025-08-03)
+
+
+### Features
+
+* **deps:** update dependency fs-chunk-store to v5 ([#2972](https://github.com/webtorrent/webtorrent/issues/2972)) ([2a1571d](https://github.com/webtorrent/webtorrent/commit/2a1571da7de9846cb58c27aabf9e233353e8d469))
+
+## [2.7.1](https://github.com/webtorrent/webtorrent/compare/v2.7.0...v2.7.1) (2025-08-03)
+
+
+### Bug Fixes
+
+* **deps:** update webtorrent ([#2971](https://github.com/webtorrent/webtorrent/issues/2971)) ([b23cf4f](https://github.com/webtorrent/webtorrent/commit/b23cf4fa90c6ca9f260a9b6dd32b1d435e97c519))
+
 # [2.7.0](https://github.com/webtorrent/webtorrent/compare/v2.6.10...v2.7.0) (2025-08-03)
 
 
